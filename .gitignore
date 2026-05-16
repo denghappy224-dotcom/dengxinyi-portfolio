@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*.tmp
+__pycache__/
+*.pyc
+*.bak
+*.env
+*.secret
+desktop.ini
+ppt/images/
+ppt/deploy-cos.js
+PPT2/~$*
+PPT2/图片+视频/《桥见》有字幕压缩版1118.mov
+PPT2/图片+视频/科技感未来.mp4
